@@ -1,6 +1,5 @@
 ### Ravi Sankar - @Ravi-Rsankar
 ----------------------------------------------------------------------
-![Ravi](https://twitter.com/RavisankarR93/photo?raw=true)
 
 Hi! 👋 I am Ravi, senior software engineer at [Exactspace](https://exactspace.co/). I work on creating backend applications and server / cloud deployments. 
 Recently started working building mobile apps using react-native. Im looking to build an app by the end of 2020 😄.  
