@@ -1,11 +1,14 @@
-### Ravi Sankar - @Ravi-Rsankar
+# Hi! 👋 I'm Ravi
 ----------------------------------------------------------------------
+## I am an aspiring full stack deveoper working in Bangalore, India.
+I have mostly worked on Backend application development and deployments on server / cloud.
 
-Hi! 👋 I am Ravi, senior software engineer at [Exactspace](https://exactspace.co/). I work on creating backend applications and server / cloud deployments. 
-Recently started building mobile apps using react-native. Im looking to build an app by the end of 2020 😄.  
+🔭 I’m currently working on becoming a full stack developer  
+🌱 I’m currently learning Javascript and ReactJS / React-native  
+👯 I’m looking to collaborate on full stack development projects  
+💬 Ask me about Backend development  
 
-
-#### Get in touch: 
+## Get in touch: 
  - Twitter: [👉 @RavisankarR93](https://twitter.com/RavisankarR93)
  - LinkedIn: [👉 ravisankar-r](www.linkedin.com/in/ravisankar-r)
 <!--
