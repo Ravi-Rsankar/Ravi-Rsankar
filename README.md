@@ -25,7 +25,7 @@ Any freelance work? Please do reach me on my  [email](mailto:ravisankar.r93@gmai
 
 
 ## Get in touch: 
-<a href="https://twitter.com/RavisankarR93">
+<a href="https://twitter.com/rsankarravi">
   <img align="left" alt="Ravi Naidu | Twitter" width="22px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ravisankar-r">
