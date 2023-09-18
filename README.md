@@ -25,14 +25,11 @@ Any freelance work? Please do reach me on my  [email](mailto:ravisankar.r93@gmai
 
 
 ## Get in touch: 
-<a href="https://discord.com/channels/@me/1059356072390967357">
-  <img align="left" alt="Ravi's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://twitter.com/RavisankarR93">
   <img align="left" alt="Ravi Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ravisankar-r">
-  <img align="left" alt="Ravi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ravi's LinkedIN" width="22px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" />
 </a>  
 
 <!--
